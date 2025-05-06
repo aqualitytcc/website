@@ -1,0 +1,16 @@
+.navbar {
+  background: radial-gradient(circle,rgba(6, 212, 208, 1) 0%, rgba(20, 111, 181, 1) 33%, rgba(0, 28, 128, 1) 100%);
+}
+
+.justify{
+  text-align: justify;
+}
+
+.login{
+  background-color: #00ff88;
+  border-radius: 8px;
+  width: 120px;
+}
+.roxo{
+  color: #2b134b;
+}
